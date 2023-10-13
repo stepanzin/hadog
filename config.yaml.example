@@ -1,0 +1,14 @@
+telegram:
+  token:
+
+rules:
+  hadog:
+    media_id: CgACAgQAAxkBAAMJZSi90SEUQLPqtyKJWay_L_5xe5sAAjoCAAILG7RS3xhzjCO1MFAwBA
+    sequence:
+      - х
+      - [а, о]
+      - д
+      - [а, о]
+      - [к, г]
+    aliases:
+      - "[flju"
